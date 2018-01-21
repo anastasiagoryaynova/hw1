@@ -21,6 +21,7 @@
 ## If you work hard you deserve some rest.It's necessary to relax and keep calm,so here it is - my source of [harmony](https://www.instagram.com/katina_maree/)
 ## 我在外语学院学习汉语
 ## In addition，I'd like to attach my VK reference(it's possible to contact me any time there) ：<https://vk.com/nastshmel>
+## And also I want to shere my email address : <anastasiagoryaynova@gmail.com>
 ## Ниже можно увидеть мое расписание на среду. 
  Название дисциплины | Имя преподавателя | Время | Аудитория | 
  --------------------|:-----------------:|------:|----------:|
@@ -28,3 +29,4 @@
 Латинский язык(семинар)|Красухин К.Г.|12:10-13:30|B-301
 Психолингвистика(НИС)|Полякова Т.А.|15:10-16:30|B-307
 Мировое культурное наследие|Чернецова Е.В.|16:40-18:00|B-309
+## Ну, а теперь настало время сказать правду и признать,что работать в гитхабе очень классно и увлекательно. Спасибо,за домашнее задание и интересное вводное занятие Георгию Геннадьевичу!
