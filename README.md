@@ -19,7 +19,7 @@
 ### Это я :)
 #### ![](https://github.com/anastasiagoryaynova/hw1/blob/master/-060Egdx2Tc.jpg)
 ## If you work hard you deserve some rest.It's necessary to relax and keep calm,so here it is - my source of [harmony](https://www.instagram.com/katina_maree/)
-## 我在外语学院学习汉语
+## 我在外语学院学习汉语(сообщаю,что учу китайский язык)
 ## In addition，I'd like to attach my VK reference(it's possible to contact me any time there) ：<https://vk.com/nastshmel>
 ## And also I want to shere my email address : <anastasiagoryaynova@gmail.com>
 ## Ниже можно увидеть мое расписание на среду. 
